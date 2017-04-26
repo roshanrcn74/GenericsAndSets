@@ -14,7 +14,7 @@ import java.util.Set;
  *
  * @author roshann
  */
-public class startUp {
+public class StartUp {
     public static void main(String[] args) {
 //        Address address1 = new Address();
 //        address1.setAddress1("University Dr");
